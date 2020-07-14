@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi!, i am Saif.
 
-<!--
-**sidsaif/sidsaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst and aspiring Data Scientist with 2 years of hands on experience in Market Research using predictive analytics, data visualizations, Machine Learning and NLP to deliver insights & implement action-oriented solutions to complex business problems. 
 
-Here are some ideas to get you started:
+I have hands on experience in Machine Learning, Natural Language Processing. Solid Programming expertise in Python, Object Oriented analysis/methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills:
+
+<ul>
+<li> Machine Learning </li>
+<li> Natural Language Processing </li>
+<li> Python (Pandas, Sci-kit learn, Numpy) </li>
+<li> Data Visualization (Matplotlib, Plotly) </li>
+<li> MongoDb, SQL </li>
+<li> PyTorch </li>
+<li> Flask </li>
+<li> Web technologies like HTML, CSS, JS </li>
+  
+Social Profiles
+<a href="https://www.linkedin.com/in/sidsaif/">LinkedIn</a> | <a href="https://www.kaggle.com/sidsaif">Kaggle</a> | +91-7208347753
+
