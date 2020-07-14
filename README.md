@@ -1,4 +1,4 @@
-### Hi!, i am Saif.
+### Hi!
 
 I am a Data Analyst and aspiring Data Scientist with 2 years of hands on experience in Market Research using predictive analytics, data visualizations, Machine Learning and NLP to deliver insights & implement action-oriented solutions to complex business problems. 
 
